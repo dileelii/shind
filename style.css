@@ -1,0 +1,55 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vedoi{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.box{
+    position: relative;
+}
+
+
+
+.box1{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.box2{
+    margin-top: 800px;
+    color:  white;
+}
+
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.bel{
+    width: 130px;
+    height: 50px ;
+    border: 2px solid white;
+}
+
+.k{
+    padding: 30px 0;
+}
+
+
